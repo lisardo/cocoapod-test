@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "ConnectSDK"
-  s.version      = "1.4.4"
+  s.version      = "1.4.5"
   s.summary      = "Connect Interactive SDK for iOS."
 
   s.description      = <<-DESC
