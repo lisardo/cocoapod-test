@@ -1,6 +1,0 @@
-framework module ConnectSDK {
-  umbrella header "ConnectSDK.h"
-
-  export *
-  module * { export * }
-}
